@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on China...
+- 🌱 I’m currently learning golang.
+- ⚡ Fun fact: I am good at chain programing and functional.
+
+
+### skills ✨
+* web server: 
+  * java
+  * golang
+  * docker
+
+* db:
+  * Redis
+  * MySQL
+  * MongoDB
+  
+* middleware:
+  * RabbitMQ
+  * a bit es 
+
+* web page:
+  * vue.js
+
+### goals 🎁
+- may be I'll learn react.js...
+- cs basic
+- datastructure and algorithm
