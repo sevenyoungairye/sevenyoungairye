@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Skills ✨
 * web server: 
-  * java
+  * java kotlin
   * golang
   * docker
 
