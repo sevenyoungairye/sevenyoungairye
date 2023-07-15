@@ -20,30 +20,27 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning golang.
 - ⚡ Fun fact: I am good at chain programing and functional.
 
-### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/`sevenyoungairye`-github-readme)
-![](https://github-readme-stats.vercel.app/api?username=sevenyoungairye&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false)   
-
 
 
 ### Skills ✨
 * web server: 
-  * java kotlin
-  * golang
-  * docker
+  * java kotlin/golang/python
+  * docker/shell
 
 * db:
-  * Redis
+  * Redis/MongoDB/ElasticSearch
   * MySQL
-  * MongoDB
   
 * middleware:
   * RabbitMQ
-  * a bit es 
 
 * web page:
   * vue.js
+  * node.js
+  * javascript/typescript
 
 ### Goals 🎁
-- may be I'll learn react.js...
+- react.js
 - cs basic
 - datastructure and algorithm
+- micro/macro economics
